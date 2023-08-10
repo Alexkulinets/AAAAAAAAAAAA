@@ -598,7 +598,7 @@ input {
     flex-direction: column;
   }
   main {
-    width: 375px;
+    width: 320px;
     height: 550px;
   } 
   .header {
@@ -648,7 +648,7 @@ input {
   }
   .container-two {
     background: rgb(255, 254, 254);
-    width: 375px;
+    width: 320px;
     height: 600px;
     display: flex;
     align-items: center;
@@ -681,7 +681,7 @@ input {
     font-weight: 700;
   }
   .container-three-main {
-    width: 375px;
+    width: 320px;
     padding: 30px 0px;
     height: auto;
     background: #F5F4FA;
@@ -739,7 +739,7 @@ input {
     text-align: center;
   }
   .container-four {
-    width: 375px;
+    width: 320px;
     height: 540px;
     display: flex;
     flex-direction: column;
@@ -765,7 +765,7 @@ input {
     border-radius: 5px;
   }
   .final-phone-container {
-    width: 375px;
+    width: 320px;
     height: 570px;
     background: #2F303A;
     display: flex;
@@ -840,7 +840,7 @@ input {
     margin-top: 5px;
   }
   input {
-    width: 375px;
+    width: 320px;
     height: 50px;
     border-radius: 7.5px;
     background: #2F303A;
